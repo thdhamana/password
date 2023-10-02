@@ -1,0 +1,35 @@
+google		: diallo0thiernohammday0@gmail.com	---------- Dialloth9188@
+google		: hamananke9188thd@gmail.com		---------- Hamanankethd9188@
+google		: jallohth9188@gmail.com		---------- Jallohth9188@
+gitHub 		: dialloth9188@gmail.com		---------- dialloth9188@git
+OnDrive		: jallohth9188@gmail.com		---------- Msthdhamanankejalloh
+fb     		: Thd Hamananke Jalloh			---------- Thdhamanankejalloh@fb
+telegram	: @thdhamananke				---------- Thdhaman
+getBrains	: hamanankethd
+
+
+------------------------------------------------------show passwords------------------------------------------------------
+netsh wlan show profiles "pour voir tous les profiles"
+netsh wlan show profiles name="NomDuProfil" key=clear
+
+
+echo "# Developpent_Android" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jallohth/Developpent_Android.git
+git push -u origin main
+
+git remote add origin https://github.com/Jallohth/Developpent_Android.git
+git branch -M main
+git push -u origin main
+
+
+
+--------------------------------------------------------------------------Quotations-------------------------------------------------------------------------------
+
+"Il n'existe pas d'education intelligente que d'être soi-même un exmple" -------------------------- Albert Einstein
+"Rien n'est impossible pour quelqu'un qui rêve, travail, ose et n'abandonne jamais"-------------------
+"L'orsque tes parents comptent sur toi tu ne doit pas jouer le même jeu que ceux qui comptent sur leurs parents".  ---------------------- Nelson Mandela
+"L'innovation, c'est une situation qu'on choisit parce qu'on a une passion brûlante pour quelque chose". --------------------Steve Jobs
