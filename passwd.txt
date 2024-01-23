@@ -1,12 +1,14 @@
 google		: diallo0thiernohammday0@gmail.com	---------- Dialloth9188@
 google		: hamananke9188thd@gmail.com		---------- Hamanankethd9188@
 google		: jallohth9188@gmail.com		---------- Jallohth9188@
-gitHub 		: dialloth9188@gmail.com		---------- dialloth9188@git
+gitHub 		: dialloth9188@gmail.com		---------- Dialloth9188@git
 OnDrive		: jallohth9188@gmail.com		---------- Msthdhamanankejalloh
 fb     		: Thd Hamananke Jalloh			---------- Thdhamanankejalloh@fb
 telegram	: @thdhamananke				---------- Thdhaman
 getBrains	: hamanankethd
 
+http://monsta.mallthemes.com/monsta-black/
+http://github.com/yannbanvi/gestscolairecrud
 
 ------------------------------------------------------show passwords------------------------------------------------------
 netsh wlan show profiles "pour voir tous les profiles"
@@ -15,21 +17,54 @@ netsh wlan show profiles name="NomDuProfil" key=clear
 
 echo "# Developpent_Android" >> README.md
 git init
-git add README.md
+git add . 
 git commit -m "first commit"
+git remote add origin "URL_du_dépôt_GitHub"
+git push -u origin master
+
 git branch -M main
-git remote add origin https://github.com/Jallohth/Developpent_Android.git
+git remote add origin "https://github.com/Jallohth/Developpent_Android.git"
 git push -u origin main
 
-git remote add origin https://github.com/Jallohth/Developpent_Android.git
-git branch -M main
-git push -u origin main
+//pour eviter les wirnings
+git config --global core.autocrlf true
+git config --global core.autocrlf input
+git rm --cached -r .
+git reset --hard
+
+//pour afficher et modifier les origines qui y sont 
+git remote -v
+git remote set-url origin "nouvelle_URL"
+
 
 
 
 --------------------------------------------------------------------------Quotations-------------------------------------------------------------------------------
 
-"Il n'existe pas d'education intelligente que d'être soi-même un exmple" -------------------------- Albert Einstein
+"Il n'existe pas d'education intelligente que d'être soi-même un exemple" -------------------------- Albert Einstein
 "Rien n'est impossible pour quelqu'un qui rêve, travail, ose et n'abandonne jamais"-------------------
 "L'orsque tes parents comptent sur toi tu ne doit pas jouer le même jeu que ceux qui comptent sur leurs parents".  ---------------------- Nelson Mandela
 "L'innovation, c'est une situation qu'on choisit parce qu'on a une passion brûlante pour quelque chose". --------------------Steve Jobs
+"La femme qui t'aime fait de toi le seul roi de sa vie, elle ne te mettra jamais en concurence avec les autres. Elle te trouve spécial et différents des autres"------------------par ...
+"La femme qui t'aime marche avec tout partout. Elle n'a pas honte de t'afficher au yeux des gens. Elle est très heureuse que tout le monde sache que c'est toi son epoux" --------------par ...
+"La femme qui t'aime n'hésitera pas de te donner tous ce qu'elle a, bien sûr même si c'est un francs qui reste avec elle pour subvenir à tes besoins" ------------------par  ...
+"La femme qui t'aime se fâche quand tu l'appelle pas et n'envoie pas de message. Elle se plaint quand tu commence à changer de comportements et quand elle ne reçoit plus tes messages de je t'aime bb, bonne nuit chérie, etc..." -----------par ...
+"Si vous n'etes pas encore marié, la femme qui t'aime parle toujours de votre future mariage, de son role de mariage, de vos enfants, etc. C'est son rêve d'être ta femme." ------------par ...
+"La femme qui t'aime s'arrange toujours à être disponible pour toi. Elle s'accorde toujours son temps et son attention" ------------par ...
+"La femme qui t'aime te respecte, elle t'écoute quand tu parles car elle est la moitié et l'élu de ton coeur et de ta vie" -----------par ... 
+"La femme qui t'aime achète des cadeaux pour toi, elle est capable de prendre son propre argent pour organiser ton anniversaire et mieux elle s'inquiète pour toi quand tu es au dehors à une heure tardive" ----------par ...
+
+
+
+---------------------------------
+les templetes :
+theme forest
+tamplete monster
+
+
+thdhamana@users.noreply.github.com
+
+
+
+https://portail.gtsco-uk.org/login
+
